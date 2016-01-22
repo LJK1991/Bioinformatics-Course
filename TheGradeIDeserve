@@ -12,3 +12,8 @@ git pull #update the .git repositiry you are currently in(can acces with cd)
 git add --all :/
 git commit -m 'message' #commands used to make files ready for uploading to to github
 git push #push the new changes to github.
+
+![Pic1](.JPG)
+![Pic2](.JPG)
+![Pic3](.JPG)
+![Pic4](.JPG)
