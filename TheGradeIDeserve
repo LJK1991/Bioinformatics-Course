@@ -1,0 +1,14 @@
+The Grade i deserve:
+
+made a github account on github name: LJK1991 pass:*************
+made a repository that .addignore Bascha files. and has a MIT License
+added some files to it, collaberated with roisineeva and added files to here repository.
+made an issue at HetRoversNest GitHUB. forked repositorys of lunavdl and quirijnvdijk, added files and changed things. then made a pull request. some got accepted some got denied.
+als got some pull request from the same people, denied all.
+have not mastered GitHUB yet, but starting to understand it much better. i do get the general idea and the commands and the few error that you can get.
+
+git clone $PATH #get the repository from GitHUB
+git pull #update the .git repositiry you are currently in(can acces with cd)
+git add --all :/
+git commit -m 'message' #commands used to make files ready for uploading to to github
+git push #push the new changes to github.
