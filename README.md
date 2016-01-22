@@ -16,3 +16,11 @@ Checking connectivity... done.
 
 =======
 >>>>>>> 7b93b3b8234821b4aa7b584773baeaaea32179b6
+
+
+![Pic1](Screenshot from 2016-01-22 12:08:14.png)
+![Pic2](Screenshot from 2016-01-22 12:08:50.png)
+![Pic3](Screenshot from 2016-01-22 12:09:47.png)
+![Pic4](Screenshot from 2016-01-22 12:11:01.png)
+
+![TheGradeIDeserve](TheGradeIDeserve.txt)
