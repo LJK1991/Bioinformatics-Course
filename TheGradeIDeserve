@@ -13,7 +13,7 @@ git add --all :/
 git commit -m 'message' #commands used to make files ready for uploading to to github
 git push #push the new changes to github.
 
-![Pic1](.JPG)
-![Pic2](.JPG)
+![Pic1](Screenshot from 2016-01-22 12:08:14.png)
+![Pic2]()
 ![Pic3](.JPG)
 ![Pic4](.JPG)
